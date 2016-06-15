@@ -1,0 +1,12 @@
+{
+  "adv_networks": {
+    "adcolony": {
+      "priority": 10,
+      "daily_max_videos": 3
+    },
+    "unityads": {
+      "priority": 20,
+      "daily_max_videos": 3
+    }
+  }
+}
