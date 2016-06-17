@@ -6,6 +6,7 @@
     },
     "unityads": {
       "priority": 20,
+      "zoneId": rewardedVideo,
       "daily_max_videos": 3
     }
   }
