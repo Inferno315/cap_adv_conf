@@ -1,7 +1,16 @@
 {
   "adv_networks": {
-    "Appodeal": {
+   "adcolony": {
+      "priority": 10,
+      "daily_max_videos": 3
+    },
+    "unityads": {
       "priority": 20,
+      "zoneId": "rewardedVideo",
+      "daily_max_videos": 10
+    },
+    "Appodeal": {
+      "priority": 30,
       "daily_max_videos": 100
     }
   }
