@@ -1,6 +1,8 @@
 {
-  "Appodeal": {
-    "priority": 20,
-    "daily_max_videos": 100
+  "adv_networks": {
+    "Appodeal": {
+      "priority": 20,
+      "daily_max_videos": 100
+    }
   }
 }
